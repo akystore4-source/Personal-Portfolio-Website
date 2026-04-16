@@ -28,10 +28,6 @@ portfolio/ └── index.html # Single page portfolio
 
 ## 👨‍💻 Author
 **Akash Kumar Yadav**  
-[LinkedIn](https://www.linkedin.com/in/akash-kumar-yadav) | akystore4@gmail.com
-
-## 📱 Contact
- Mobile: +91 9123281356 ✉️ Email: akystore4@gmail.com 💼 LinkedIn: linkedin.com/in/akash-kumar-yadav
  
 ---
 
