@@ -10,3 +10,29 @@ A clean, responsive personal portfolio website built from scratch using **HTML5*
 - 💫 **Interactive Elements** - Hover animations and scroll effects
 
 ## 🛠️ Technologies Used
+HTML5 | CSS3 | JavaScript | Responsive Design | CSS Grid | Flexbox
+
+## 📂 Project Structure
+portfolio/ └── index.html # Single page portfolio
+
+## 🚀 Live Demo
+[View Live Website](https://YOUR_USERNAME.github.io/portfolio)
+
+## 🎯 What I Learned
+- Semantic HTML5 structure
+- CSS Grid & Flexbox for layouts
+- CSS Animations & Transitions
+- Responsive design with media queries
+- Vanilla JavaScript for interactivity
+- GitHub Pages deployment
+
+## 👨‍💻 Author
+**Akash Kumar Yadav**  
+[LinkedIn](https://www.linkedin.com/in/akash-kumar-yadav) | akystore4@gmail.com
+
+## 📱 Contact
+ Mobile: +91 9123281356 ✉️ Email: akystore4@gmail.com 💼 LinkedIn: linkedin.com/in/akash-kumar-yadav
+ 
+---
+
+⭐ **Made with ❤️ by a student learning web development!**
